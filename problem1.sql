@@ -1,0 +1,1 @@
+INSERT INTO song VALUES ('Thriller','Michael Jackson');
